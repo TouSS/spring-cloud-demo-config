@@ -1,4 +1,4 @@
 server:
-  port: 70006
+  port: 80006
 
 profile: default
